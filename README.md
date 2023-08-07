@@ -1,2 +1,2 @@
 # AplicativoPedraPapelTesoura
-Aplicativo desenvolvido com HTML, CSS e JavaScript
+Aplicativo desenvolvido somente com HTML e CSS 
